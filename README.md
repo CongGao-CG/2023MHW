@@ -1,5 +1,7 @@
 # 2023MHW
 
+Please click https://conggao-cg.github.io/2023MHW
+
 
 Lecture 1: Basic detection and categorisation of marine heatwave events
 
